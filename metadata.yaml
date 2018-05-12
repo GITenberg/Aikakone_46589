@@ -1,9 +1,13 @@
 _repo: Aikakone_46589
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Vihervaara, Lyyli
     gutenberg_agent_id: '43866'
     url: http://www.gutenberg.org/2009/agents/43866
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46589#Aikakone
 gutenberg_issued: '2014-08-15'
 gutenberg_type: Text
 identifiers:
